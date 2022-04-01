@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ParshadKyada
 - 👀 I’m interested in 💻📚🍕
 - 🌱 I’m currently learning Python🐍
-- 📫 How to reach me Twitter : @KyadaParshad   
--                    Instagram : kyada_parshad
+- 📫 How to reach me Twitter : @KyadaParshad   Instagram : kyada_parshad 
+-                    
 
 <!---
 ParshadKyada/ParshadKyada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
