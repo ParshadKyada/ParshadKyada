@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParshadKyada
-- 👀 I’m interested in computers 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in 💻📚🍕
+- 🌱 I’m currently learning Python🐍
 - 📫 How to reach me Twitter : @KyadaParshad  Instagram : kyada_parshad
 
 <!---
